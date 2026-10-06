@@ -1,0 +1,11 @@
+{
+  "name": "Eyelet Fashion Boutique",
+  "short_name": "Eyelet",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4E8E2",
+  "theme_color": "#F4E8E2",
+  "icons": [
+    { "src": "assets/logo.png", "sizes": "936x1044", "type": "image/png" }
+  ]
+}
